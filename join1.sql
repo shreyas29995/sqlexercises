@@ -60,7 +60,7 @@ values	(999904,'2017-01-01'),
 		(999906,'2017-01-01'),
 		(999907,'2017-01-01');
         
-delete from dept_manager_dup
+delete from dept_manager_dup 
 where dept_no ='d001';
 
 insert into departments_dup
